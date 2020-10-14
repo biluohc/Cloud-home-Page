@@ -32,7 +32,7 @@ const OBJ = {
     },
     {
       "name": "Vue.js",
-      "url": "https://cn.vuejs.org/"
+      "url": "https://v3.cn.vuejs.org/"
     },
     {
       "name": "Go",
